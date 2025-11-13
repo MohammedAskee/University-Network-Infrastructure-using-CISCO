@@ -1,20 +1,5 @@
 # 🧩 Network Infrastructure Design Proposal for a University
 
-**Course:** COMP 352L — Computer Networks Lab  
-**Semester:** 6th (Spring 2025)  
-**Institute:** Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Haripur, Pakistan  
-**Department:** School of Computing Sciences  
-
----
-
-## 👥 Team Members
-- **Iqbal Mohammed Askee** (B22F0758CS143)  
-- **Azeem Mohamed Hussain** (B22F0759CS142)  
-- **Abdhur Rahman Nasir** (B22F0760CS141)
-
-**Submitted To:** Mr. Muhammad Usman  
-**Lab Instructor:** Mr. Ameer Hamza  
-
 ---
 
 ## 📘 Project Overview
